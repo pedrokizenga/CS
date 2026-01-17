@@ -73,7 +73,6 @@ export const quizData = [
   },
   {
     step: 7,
-    type: 'single_select',
     question: "Concordas que fomos treinados para ser um <span class='text-highlight-red'>empregado</span> e não para abrir <span class='text-highlight-yellow'>nosso próprio negócio</span>?",
     type: "single_select",
     options: [
@@ -83,7 +82,6 @@ export const quizData = [
   },
   {
     step: 8,
-    type: 'single_select',
     question: "Você tem noção de que tua ideia está <span class='text-highlight-red'>morrendo</span> e o seu dinheiro indo para o bolso de outra pessoa a cada dia que <span class='text-highlight-red'>você não executa</span>?",
     type: "single_select",
     options: [
